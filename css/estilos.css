@@ -91,6 +91,7 @@ main .sobre-nosotros{
 
 .imagen-about-us{
     width: 33%;
+    padding-right: 15px;
 }
 
 .sobre-nosotros .contenido-textos{
@@ -117,9 +118,9 @@ main .sobre-nosotros{
 }
 
 .contenidos-textos p{
-    padding: 0px 0px 30px 15px;
-    font-weight: 300;
-    text-align: center;
+    padding: 0px 0px 0px 0px;
+    font-weight: 800;
+    text-align: right;
 }
 
 /*Galeria*/
